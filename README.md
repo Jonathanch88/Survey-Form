@@ -27,4 +27,8 @@ finally a button with `id="submit"` to send all my contributions.
 <img src="screenshots/Screenshot_Survey_Form_2.png" width="300">
 
 ### You can see it better in my codepen:
-<a href="https://codepen.io/Jonth8295/pen/BaovgLM" target="_blank">Survey Form for FreeCodeCamp Responsive Web Design Projects</a>
+<a href="https://codepen.io/Jonth8295/pen/BaovgLM">Survey Form for FreeCodeCamp Responsive Web Design Projects</a>
+
+### Or you can also see it like a site deploy at:
+<a href="https://jonathansurveyform.netlify.app/">Survey Form on netlify</a>
+
